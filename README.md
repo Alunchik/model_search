@@ -2,7 +2,11 @@
 
 ![header](https://raw.githubusercontent.com/google/model_search/master/model_search/images/model_search_logo.png)
 
+<<<<<<< HEAD
 Hello!!! =)
+=======
+Hello everyone!
+>>>>>>> branch1
 
 Model search (MS) is a framework that implements AutoML algorithms for model architecture search at scale. It
 aims to help researchers speed up their exploration process for finding the right
